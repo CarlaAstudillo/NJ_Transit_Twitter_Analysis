@@ -30,7 +30,7 @@ We then manually took out any tweets when an NJ Transit twitter account for one 
 We also manually categorized each tweet according to who/what NJ Transit blamed the delay on in the tweet. The categories and criteria are the following:
 
 | Category   |      Criteria      | 
-|----------|:-------------:|
+|----------|-------------|
 | Amtrak ALL |  All tweets that place the blame on Amtrak.|
 | NJT ALL |  All tweets that don't blame Amtrak or any weather, medical or police emergency are categorized as NJ Transit related.|
 | Misc ALL |  All tweets that blame miscellaneous events that have nothing to do with Amtrak or NJ Transit issues. Examples include police/fire activity, medical emergency or severe weather. |
@@ -52,3 +52,7 @@ We also manually categorized each tweet according to who/what NJ Transit blamed 
 | NJT switch problem |  All tweets that blame delay on switch problems in a NJ Transit train. |
 | Police/Fire activity |  All tweets that blame delay on police or firefighter presence and includes tresspasser strikes and motor vehicle accidents. |
 | Weather-related |  All tweets that blame delay on the weather, including downed trees or debris caught on wires. |
+
+Sometimes, the tweets were very explicit in what caused the delay. However, there were a few times when the tweet was vague or incomplete or gave no explicit reason for the delay.
+
+In those instances, we compared tweets that were sent during similar times from other connecting rail lines to try to figure out what was at fault. If we couldn’t figure out the reason, we labeled it as “no reason given." We are making the spreadsheet file of each scraped, filtered and categorized tweet available [here](https://github.com/CarlaAstudillo/NJ_Transit_Twitter_Analysis/blob/master/all_NJT_delay_march_april_may.csv). Let us know if you see any errors in how we categorized a tweet through [email](castudillo@njadvancemedia.com).
