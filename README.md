@@ -12,6 +12,7 @@ The tweets were first scraped from the official NJ Transit twitter accounts usin
 * All retweets
 * All tweets referring to the same delay for the same train. This was done by removing all tweets with the word UPDATE so that only the initial delay tweet is counted
 * All tweets alluding to trains operation on or close to a normal schedule
+* All promotional or campaign tweets
 * All tweets about other train lines that are not NJ Transit, like PATH and Metro North. We also took out mentions of the Princeton shuttle and the Newark Airport Air Train.
 * All tweets that were corrections on an earlier tweet by removing all tweets with the word CORRECTION
  
