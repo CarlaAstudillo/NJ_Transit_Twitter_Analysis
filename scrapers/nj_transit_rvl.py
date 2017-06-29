@@ -6,10 +6,10 @@ import csv
 from datetime import timedelta
 
 #Twitter API credentials
-consumer_key = "eGWBnoJf21014qWJMObiS9WAC"
-consumer_secret = "GPGgqls9yMFXSITtl9gOJfYqmI2X1r5Wqd5lKpfahKNkVR4cnP"
-access_key = "205486955-vLiIYf69BGiQv4P5WpB2PaoHOUz36UHehD6rcZnY"
-access_secret = "TRhZQ8chDfsJaFkPJzV1t9z2km2fWND7TRHdhWzsMXy5V"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 tweetlink ="https://twitter.com/NJTRANSIT_RVL/status/"
 
